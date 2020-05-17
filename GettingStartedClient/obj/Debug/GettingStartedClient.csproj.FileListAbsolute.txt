@@ -1,0 +1,7 @@
+C:\Users\t-ampand\source\repos\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+C:\Users\t-ampand\source\repos\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+C:\Users\t-ampand\source\repos\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+C:\Users\t-ampand\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.csproj.CoreCompileInputs.cache
+C:\Users\t-ampand\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+C:\Users\t-ampand\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
+C:\Users\t-ampand\source\repos\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache
